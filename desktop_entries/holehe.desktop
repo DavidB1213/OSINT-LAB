@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=Holehe
+Comment=OSINT Email Account Finder
+Exec=xfce4-terminal --hold -e /home/vboxuser/OSINT/Correos/holehe/lanzar_holehe.sh
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=OSINT;

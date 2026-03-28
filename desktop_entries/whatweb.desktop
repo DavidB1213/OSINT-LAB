@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=WhatWeb
+Comment=OSINT Web Technology Fingerprinting
+Exec=xfce4-terminal --hold -e /home/vboxuser/OSINT/Infraestructura_web/whatweb/lanzar_whatweb.sh
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=OSINT;

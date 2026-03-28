@@ -1,0 +1,8 @@
+[Desktop Entry]
+Name=h8mail
+Comment=OSINT Email Breach Investigation
+Exec=xfce4-terminal --hold -e /home/vboxuser/OSINT/Correos/h8mail/lanzar_h8mail.sh
+Icon=utilities-terminal
+Terminal=true
+Type=Application
+Categories=OSINT;
