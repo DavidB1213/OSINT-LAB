@@ -39,7 +39,8 @@ bash main_launcher.sh
 ## 📥 Descarga y acceso
 
 Descarga OVA:
-https://mega.nz/file/DMl11I6I#S_n2UKEG9Qk52qCBEC_mKj_1dUz9eVDa7LoOAP1YPw8
+- https://drive.google.com/file/d/1fbagyu7KEI2rm_dotBFgmGt8pIgG5Rld/view
+- https://mega.nz/file/DMl11I6I#S_n2UKEG9Qk52qCBEC_mKj_1dUz9eVDa7LoOAP1YPw8
 
 Contraseña de la máquina: osint
 
